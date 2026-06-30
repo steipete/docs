@@ -76,9 +76,9 @@
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "anchor": "Support",
+          "href": "https://mintlify.com/support",
+          "icon": "life-ring"
         },
         {
           "anchor": "Blog",

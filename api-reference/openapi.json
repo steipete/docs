@@ -8,11 +8,6 @@
     },
     "version": "1.0.0"
   },
-  "servers": [
-    {
-      "url": "http://sandbox.mintlify.com"
-    }
-  ],
   "security": [
     {
       "bearerAuth": []
